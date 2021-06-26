@@ -1,3 +1,7 @@
+/*
+ * This is my project
+ */
+
 package masterSelenium1;
 
 import java.util.List;
